@@ -1,9 +1,13 @@
 # DCL-6-Final
-run xampp and start apache + sql server
+run xampp 
 
-go to xampp folder with php files and load the page
+then start apache and the sql server
+
+go to xampp /test folder to place the php files and load the page
 
 localhost/test/
 
 Optional
-run "rails s" on project with ruby on rails DCL 7. To get the travel blog link to be functional
+To make the travel blog link be functional run "rails s" on project with ruby on rails DCL 7 at link below. 
+
+https://github.com/meenhalali/DCL-7-Ruby-Blog-Final
