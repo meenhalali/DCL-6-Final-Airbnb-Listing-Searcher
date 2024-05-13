@@ -12,3 +12,5 @@ Optional:
 To make the travel blog link be functional run "rails s" on project with ruby on rails DCL 7 at link below. 
 
 https://github.com/meenhalali/DCL-7-Ruby-Blog-Final
+
+To view website functionality easily please download and view the Airbnb-Listing-Finder-All-functionality.mkv file
