@@ -1,5 +1,4 @@
-# DCL-6-Final
-# Created an Airbnb Listing searcher combining all the other DCL projects. 
+# DCL-6-Final, Created an Airbnb Listing searcher combining all the other DCL projects. 
 # Created with Javascript, PHP, HTML, CSS, and ruby for the travel blog found at DCL 7 
 run xampp 
 
